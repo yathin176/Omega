@@ -18,5 +18,5 @@ var firebaseConfig = {
  
 ////Do Not Edit Below This
 
-//firebase.initializeApp(config);
+firebase.initializeApp(firebaseConfig);
 var database = firebase.database();
